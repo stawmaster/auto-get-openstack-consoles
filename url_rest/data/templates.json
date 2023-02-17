@@ -1,0 +1,18 @@
+[
+  {
+    "template_id": 1,
+    "number_of_placeholders": 2,
+    "string": "this is an example template, replace {first} placeholder and then replace the {second}"
+  },
+
+  {
+    "template_id": 2,
+    "number_of_placeholders": 3,
+    "string": "this is the {second} template, replace {placeholder1} and {placeholder2}"
+  },
+  {
+    "template_id": 3,
+    "number_of_placeholders": 3,
+    "string": "this is the {third} template, replace {ph1} and {ph2}"
+  }
+]
